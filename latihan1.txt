@@ -1,3 +1,14 @@
 Daftar menu:
-    Senin :
+1. Senin :
     -   ayam bakar
+    -   nasi liwet
+    -   sambel
+    -   sayur sop
+2. Selasa
+    -   nasi kebuli
+    -   bebek goreng
+    -   sayur asem
+    -   oreg
+3. rabu :
+    -   ikan bakar
+    -   nasi putih
